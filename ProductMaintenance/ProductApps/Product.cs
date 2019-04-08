@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductApps
 {
-    class Product
+    public class Product
     {
         private decimal price;
         private int quantity;
